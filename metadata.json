@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Wallpapers",
+  "description": "Generate custom phone wallpapers in 9:16 aspect ratio based on a textual vibe, with remixing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
